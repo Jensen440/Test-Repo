@@ -10,7 +10,8 @@
 ***I have been interested in financial technology for a while now.***
 <br>
 ---
-> "Something inspirational"
+> "Face every day like a puppy!"
 
 <br>
-![](../../../Demo%20Dog%20Pic.jpeg)
+
+![](../Demo%20Dog%20Pic.jpeg)
